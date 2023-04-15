@@ -41,3 +41,7 @@ ul {
 .footer {
     margin-top: 20px;
 }
+
+a img {
+    vertical-align: middle;
+}
