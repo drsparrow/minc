@@ -6,11 +6,6 @@ body {
     margin-bottom: 10px;
 }
 
-.header {
-    margin-top: 20px;
-    font-size: 18px;
-}
-
 h1 {
     font-size: 40px;
 }
@@ -38,8 +33,9 @@ ul {
     font-size: 18px;
 }
 
-.footer {
+.header-footer {
     margin-top: 20px;
+    font-size: 18px;
 }
 
 a img {
