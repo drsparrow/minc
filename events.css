@@ -6,5 +6,6 @@
 }
 
 .route-map {
-    max-width: 40vw;
+    max-width: 60vw;
+    max-height: 90vh;
 }
